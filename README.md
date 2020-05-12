@@ -1,2 +1,0 @@
-# MarkdownEditor
-Created with CodeSandbox
